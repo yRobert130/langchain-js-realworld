@@ -1,6 +1,6 @@
 {
   "name": "langchain-js-realworld",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "description": "Langchain realworld examples in JS",
   "main": "src/index.js",
   "scripts": {
