@@ -39,3 +39,4 @@ export const VERSION = "0.1.0";
 // clarify the control flow
 // keep defaults in sync with the manifest
 // clarify the control flow
+// drop an unused branch
